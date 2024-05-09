@@ -1,16 +1,15 @@
-### Hi there 👋
+### yo
 
-<!--
-**RichardKanshen/RichardKanshen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```JS
+var names = [
+  "richard kanshen",
+  "kanshen.click",
+  "kanskje0", 
+  "出口レイ",
+  "コンフュージョンちゃん"
+  ]
+```
 
-Here are some ideas to get you started:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=richardkanshen&theme=catppuccin-frappe&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=le2c7wcatmvmqycb5imn949an&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=le2c7wcatmvmqycb5imn949an&redirect=true)
