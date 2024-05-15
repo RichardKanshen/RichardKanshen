@@ -7,8 +7,11 @@ var names = [
   "コンフュージョンちゃん"
   ]
 ```
+
 <div align=center>
         <img src="https://github-readme-streak-stats.herokuapp.com?user=richardkanshen&amp;theme=catppuccin-frappe&amp;hide_border=true&amp;border_radius=10" alt="GitHub Streak">
+        <br>
+        <img src="github-metrics.svg">
   <br><br>
         <div><a href="https://bsky.app/profile/kanshen.click" style="text-decoration: none;"><img src="https://img.shields.io/badge/BSky-kanshen.click-blue?style=for-the-badge&amp;logo=bluesky&amp;logoColor=white" alt="BSky"></a>
         <a href="https://www.youtube.com/richardkanshen" style="text-decoration: none;"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-richardkanshen-red?style=for-the-badge&amp;logo=youtube&amp;logoColor=white"></a>
