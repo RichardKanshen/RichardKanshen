@@ -19,13 +19,13 @@ var names = [
 
 | Username | Day Streak | Total XP |
 |:---:|:---:|:---:|
-| 👤 RichardKanshen | 🔥 88 | ⚡ 19608 |
+| 👤 RichardKanshen | 🔥 88 | ⚡ 19269 |
 
 | Language | Level | XP |
 |:---:|:---:|:---:|
 | 🇸🇪 Swedish | 👑 0 | ⚡ 1147 |
 | 🇯🇵 Japanese | 👑 0 | ⚡ 6166 |
-| 🇳🇴 Norwegian (Bokmål) | 👑 0 | ⚡ 11956 |
+| undefined Norwegian (Bokmål) | 👑 0 | ⚡ 11956 |
 
 <!--END_SECTION:duolingoStats-->
 
