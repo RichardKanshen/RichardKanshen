@@ -43,3 +43,13 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
+  duolingo:
+    name: Update readme with Duolingo stats
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v3
+      - uses: centrumek/duolingo-readme-stats@main
+        with:
+          DUOLINGO_USER_ID: 745993669
