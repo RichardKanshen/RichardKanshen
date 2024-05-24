@@ -25,10 +25,7 @@ var names = [
 |:---:|:---:|:---:|
 | 🇸🇪 Swedish | 👑 0 | ⚡ 1147 |
 | 🇯🇵 Japanese | 👑 0 | ⚡ 6166 |
-| undefined Norwegian (Bokmål) | 👑 0 | ⚡ 11956 |
-| 🇩🇪 German | 👑 0 | ⚡ 182 |
-| 🇩🇪 Yiddish | 👑 0 | ⚡ 104 |
-| 🇫🇷 French | 👑 0 | ⚡ 53 |
+| 🇳🇴 Norwegian (Bokmål) | 👑 0 | ⚡ 11956 |
 
 <!--END_SECTION:duolingoStats-->
 
