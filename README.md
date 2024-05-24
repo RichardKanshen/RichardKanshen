@@ -27,6 +27,7 @@ var names = [
 
 | Language | Level | XP |
 |:---:|:---:|:---:|
+| undefined High Valyrian | 👑 0 | ⚡ 0 |
 | 🇸🇪 Swedish | 👑 0 | ⚡ 1147 |
 | 🇯🇵 Japanese | 👑 0 | ⚡ 6166 |
 | undefined Norwegian (Bokmål) | 👑 0 | ⚡ 11956 |
