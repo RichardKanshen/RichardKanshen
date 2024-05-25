@@ -29,7 +29,7 @@ var names = [
 |:---:|:---:|:---:|
 | 🇸🇪 Swedish | 👑 0 | ⚡ 1189 |
 | 🇯🇵 Japanese | 👑 0 | ⚡ 6166 |
-| undefined Norwegian (Bokmål) | 👑 0 | ⚡ 11956 |
+| 🇳🇴 Norwegian (Bokmål) | 👑 0 | ⚡ 11956 |
 
 <!--END_SECTION:duolingoStats-->
 
