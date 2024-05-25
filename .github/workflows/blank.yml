@@ -50,6 +50,6 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v3
-      - uses: centrumek/duolingo-readme-stats@main
+      - uses: RichardKanshen/duolingo-readme-stats@main
         with:
           DUOLINGO_USER_ID: 745993669
