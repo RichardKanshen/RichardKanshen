@@ -23,12 +23,11 @@ var names = [
 
 | Username | Day Streak | Total XP |
 |:---:|:---:|:---:|
-| 👤 RichardKanshen | 🔥 88 | ⚡ 19269 |
+| 👤 RichardKanshen | 🔥 88 | ⚡ 19284 |
 
 | Language | Level | XP |
 |:---:|:---:|:---:|
-| undefined High Valyrian | 👑 0 | ⚡ 0 |
-| 🇸🇪 Swedish | 👑 0 | ⚡ 1147 |
+| 🇸🇪 Swedish | 👑 0 | ⚡ 1162 |
 | 🇯🇵 Japanese | 👑 0 | ⚡ 6166 |
 | undefined Norwegian (Bokmål) | 👑 0 | ⚡ 11956 |
 
