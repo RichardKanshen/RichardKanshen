@@ -1,9 +1,7 @@
 # Visit https://github.com/lowlighter/metrics#-documentation for full reference
-name: Metrics
+name: GitHub Metrics
 on:
-  # Schedule updates (each hour)
-  schedule: [{cron: "0 5 * * *"}]
-  # Lines below let you run workflow manually and on each commit
+  schedule: [{cron: "0 0/6 * * *"}]
   workflow_dispatch:
   push: {branches: ["master", "main"]}
 jobs:
@@ -43,13 +41,3 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
-  duolingo:
-    name: Update readme with Duolingo stats
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: actions/checkout@v3
-      - uses: RichardKanshen/duolingo-readme-stats@main
-        with:
-          DUOLINGO_USER_ID: 745993669
