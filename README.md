@@ -44,6 +44,7 @@ var names = [
 <a href="https://link.kanshen.click/𝕏" style="text-decoration: none;"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-kanskje0-black?style=for-the-badge&amp;logo=x&amp;logoColor=white"></a>
 </div>
 <a href="https://link.kanshen.click/pronouns" style="text-decoration: none;"><img alt="pronouns.page" src="https://img.shields.io/badge/pronouns-kanshen.click-purple?style=for-the-badge&amp;logo=Pronouns.page&amp;logoColor=white"></a>
+
 ![card](https://github.com/RichardKanshen/RichardKanshen/assets/73738591/73b8e4e5-0d84-4369-bc30-b95d63b319dc)
 
 <br>
