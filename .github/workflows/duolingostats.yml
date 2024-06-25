@@ -14,4 +14,4 @@ jobs:
       - uses: RichardKanshen/duolingo-readme-stats@main
         with:
           DUOLINGO_USER_ID: 745993669
-          SHOW_FROM_ENGLISH: true
+          SHOW_FROM_ENGLISH: false
