@@ -1,6 +1,6 @@
 name: Duolingo Stats
 on:
-  schedule: [{cron: "0 0/4 * * *"}]
+  schedule: [{cron: "39 * * * *"}]
   workflow_dispatch:
   push: {branches: ["master", "main"]}
 jobs:
