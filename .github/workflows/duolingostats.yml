@@ -17,4 +17,4 @@ jobs:
           SHOW_FROM_ENGLISH: false
           ADVANCED_TOKEN_CSRF: ${{ secrets.DUOLINGO_CSRF }}
           ADVANCED_TOKEN_JWT: ${{ secrets.DUOLINGO_JWT }}
-          SHOW_LEAGUE: true
+          SHOW_LEAGUE: false
