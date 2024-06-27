@@ -15,3 +15,5 @@ jobs:
         with:
           DUOLINGO_USER_ID: 745993669
           SHOW_FROM_ENGLISH: false
+          ADVANCED_COOKIE: ${{ secrets.DUOLINGO }}
+          SHOW_LEAGUE: true
