@@ -22,3 +22,4 @@ jobs:
           ADVANCED_TOKEN_JWT: ${{ secrets.DUOLINGO_JWT }}
           SHOW_LEAGUE: true
           XP_THIS_WEEK: true
+          SHOW_STREAK_TIMEZONE: true
