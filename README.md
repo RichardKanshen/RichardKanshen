@@ -21,7 +21,7 @@ var names = [
 <a href="https://www.duolingo.com/profile/RichardKanshen" style="text-decoration: none;"><img alt="Duolingo" src="https://img.shields.io/badge/Duolingo-RichardKanshen-green?style=for-the-badge&amp;logo=duolingo&amp;logoColor=white"></a>
 
 <!--START_SECTION:duolingoStats-->
-<!-- Automatically generated with https://github.com/centrumek/duolingo-readme-stats-->
+<!-- Automatically generated with https://github.com/RichardKanshen/duolingo-readme-stats-->
 
 | Username | Day Streak (CEST) | Total XP | XP This Week | League |
 |:---:|:---:|:---:|:---:|:---:|
