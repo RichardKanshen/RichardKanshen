@@ -220,10 +220,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="7.927643284925716" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="7.927643284925716" y="0" width="5.858385417576628" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="13.786028702502344" y="0" width="2.769303200640735" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="16.555331903143077" y="0" width="443.44466809685696" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="220.27440660211045" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="220.27440660211045" y="0" width="162.77881397071974" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="383.0532205728302" y="0" width="76.94677942716983" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -244,17 +243,11 @@
                         </svg>
                         JavaScript
                     </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Other
-                    </div>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 12 Jul 2024, 17:29:26 (timezone Europe/Bratislava) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Jul 2024, 17:33:13 (timezone Europe/Bratislava) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
