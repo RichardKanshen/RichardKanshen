@@ -43,3 +43,4 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_languages_categories: data, markup, programming, prose
           plugin_languages_ignored: svg, xml
+          plugin_languages_details: lines, bytes-size
