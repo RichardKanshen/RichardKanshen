@@ -25,7 +25,7 @@ var names = [
 
 | Username | Day Streak (CEST) | Total XP | XP This Week | League |
 |:---:|:---:|:---:|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/RichardKanshen/duolingo-readme-stats/main/assets/duolingo.png" height="12"> RichardKanshen | <img src="https://raw.githubusercontent.com/RichardKanshen/duolingo-readme-stats/main/assets/streakinactive.svg" height="12"> 155 | <img src="https://raw.githubusercontent.com/RichardKanshen/duolingo-readme-stats/main/assets/xp.svg" height="12"> 64058 | <img src="https://raw.githubusercontent.com/RichardKanshen/duolingo-readme-stats/main/assets/xp.svg" height="12"> 828 | <img src="https://raw.githubusercontent.com/RichardKanshen/duolingo-readme-stats/main/assets/leagues/diamond.png" height="12"> Diamond |
+| <img src="https://raw.githubusercontent.com/RichardKanshen/duolingo-readme-stats/main/assets/duolingo.png" height="12"> RichardKanshen | <img src="https://raw.githubusercontent.com/RichardKanshen/duolingo-readme-stats/main/assets/streakactive.svg" height="12"> 156 | <img src="https://raw.githubusercontent.com/RichardKanshen/duolingo-readme-stats/main/assets/xp.svg" height="12"> 64080 | <img src="https://raw.githubusercontent.com/RichardKanshen/duolingo-readme-stats/main/assets/xp.svg" height="12"> 850 | <img src="https://raw.githubusercontent.com/RichardKanshen/duolingo-readme-stats/main/assets/leagues/diamond.png" height="12"> Diamond |
 
 | Language | XP |
 |:---:|:---:|
@@ -35,7 +35,7 @@ var names = [
 | <img src="https://raw.githubusercontent.com/RichardKanshen/duolingo-readme-stats/main/assets/langs/swedish.svg" height="12"> Swedish | <img src="https://raw.githubusercontent.com/RichardKanshen/duolingo-readme-stats/main/assets/xp.svg" height="12"> 3763 |
 | <img src="https://raw.githubusercontent.com/RichardKanshen/duolingo-readme-stats/main/assets/langs/spanish.svg" height="12"> Spanish | <img src="https://raw.githubusercontent.com/RichardKanshen/duolingo-readme-stats/main/assets/xp.svg" height="12"> 2224 |
 | <img src="https://raw.githubusercontent.com/RichardKanshen/duolingo-readme-stats/main/assets/langs/italian.svg" height="12"> Italian | <img src="https://raw.githubusercontent.com/RichardKanshen/duolingo-readme-stats/main/assets/xp.svg" height="12"> 2160 |
-| <img src="https://raw.githubusercontent.com/RichardKanshen/duolingo-readme-stats/main/assets/langs/french.svg" height="12"> French | <img src="https://raw.githubusercontent.com/RichardKanshen/duolingo-readme-stats/main/assets/xp.svg" height="12"> 1054 |
+| <img src="https://raw.githubusercontent.com/RichardKanshen/duolingo-readme-stats/main/assets/langs/french.svg" height="12"> French | <img src="https://raw.githubusercontent.com/RichardKanshen/duolingo-readme-stats/main/assets/xp.svg" height="12"> 1076 |
 | <img src="https://raw.githubusercontent.com/RichardKanshen/duolingo-readme-stats/main/assets/langs/dutch.svg" height="12"> Dutch | <img src="https://raw.githubusercontent.com/RichardKanshen/duolingo-readme-stats/main/assets/xp.svg" height="12"> 450 |
 | <img src="https://raw.githubusercontent.com/RichardKanshen/duolingo-readme-stats/main/assets/langs/greek.svg" height="12"> Greek | <img src="https://raw.githubusercontent.com/RichardKanshen/duolingo-readme-stats/main/assets/xp.svg" height="12"> 303 |
 | <img src="https://raw.githubusercontent.com/RichardKanshen/duolingo-readme-stats/main/assets/langs/korean.svg" height="12"> Korean | <img src="https://raw.githubusercontent.com/RichardKanshen/duolingo-readme-stats/main/assets/xp.svg" height="12"> 283 |
