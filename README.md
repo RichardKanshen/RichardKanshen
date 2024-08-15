@@ -25,7 +25,7 @@ var names = [
 
 | Username | Day Streak (CEST) | Total XP | XP This Week | League |
 |:---:|:---:|:---:|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/RichardKanshen/duolingo-readme-stats/main/assets/duolingo.png" height="12"> RichardKanshen | <img src="https://raw.githubusercontent.com/RichardKanshen/duolingo-readme-stats/main/assets/streakactive.svg" height="12"> 170 | <img src="https://raw.githubusercontent.com/RichardKanshen/duolingo-readme-stats/main/assets/xp.svg" height="12"> 64680 | <img src="https://raw.githubusercontent.com/RichardKanshen/duolingo-readme-stats/main/assets/xp.svg" height="12"> 50 | <img src="https://raw.githubusercontent.com/RichardKanshen/duolingo-readme-stats/main/assets/leagues/pearl.png" height="12"> Pearl |
+| <img src="https://raw.githubusercontent.com/RichardKanshen/duolingo-readme-stats/main/assets/duolingo.png" height="12"> RichardKanshen | <img src="https://raw.githubusercontent.com/RichardKanshen/duolingo-readme-stats/main/assets/streakinactive.svg" height="12"> 170 | <img src="https://raw.githubusercontent.com/RichardKanshen/duolingo-readme-stats/main/assets/xp.svg" height="12"> 64680 | <img src="https://raw.githubusercontent.com/RichardKanshen/duolingo-readme-stats/main/assets/xp.svg" height="12"> 50 | <img src="https://raw.githubusercontent.com/RichardKanshen/duolingo-readme-stats/main/assets/leagues/pearl.png" height="12"> Pearl |
 
 | Language | XP |
 |:---:|:---:|
