@@ -59,5 +59,5 @@ var names = [
 ![card](https://github.com/RichardKanshen/RichardKanshen/assets/73738591/73b8e4e5-0d84-4369-bc30-b95d63b319dc)
 
 <br>
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=le2c7wcatmvmqycb5imn949an&amp;redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=le2c7wcatmvmqycb5imn949an&amp;cover_image=true&amp;theme=default&amp;show_offline=true&amp;background_color=000000&amp;interchange=true&amp;bar_color=53b14f&amp;bar_color_cover=true" alt="spotify-github-profile"></a>
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=le2c7wcatmvmqycb5imn949an&amp;redirect=true"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=le2c7wcatmvmqycb5imn949an&amp;cover_image=true&amp;theme=default&amp;show_offline=true&amp;background_color=000000&amp;interchange=true&amp;bar_color=53b14f&amp;bar_color_cover=true" alt="spotify-github-profile"></a>
 </div>
