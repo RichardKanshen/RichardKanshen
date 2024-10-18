@@ -47,7 +47,7 @@ var names = [
 
 <!--END_SECTION:duolingoStats-->
 
-<br><div><img src="https://dcbadge.limes.pink/api/shield/533304170355228672?compact=true"> <a rel="me" href="https://woof.tech/@kanskje00"><img src="https://img.shields.io/badge/Mastodon-kanskje00-563ACC?style=for-the-badge&amp;logo=mastodon&amp;logoColor=white" alt="Mastodon"></a><!-- <a rel="me" href="https://woof.tech/@kanskje00">Mastodon</a> --> <a href="https://bsky.app/profile/kanshen.click" style="text-decoration: none;"><img src="https://img.shields.io/badge/BSky-kanshen.click-blue?style=for-the-badge&amp;logo=bluesky&amp;logoColor=white" alt="BSky"></a> <a href="https://namemc.com/profile/kanskje0.1" style="text-decoration: none;"><img alt="NameMC" src="https://img.shields.io/badge/NameMC-kanskje0-black?style=for-the-badge&amp;logo=namemc&amp;logoColor=white"></a><br>
+<br><div><img src="https://dcbadge.limes.pink/api/shield/533304170355228672?compact=true"> <a rel="me" href="https://woof.tech/@kanskje00"><img src="https://img.shields.io/badge/Mastodon-kanskje00-563ACC?style=for-the-badge&amp;logo=mastodon&amp;logoColor=white" alt="Mastodon"></a> <a href="https://bsky.app/profile/kanshen.click" style="text-decoration: none;"><img src="https://img.shields.io/badge/BSky-kanshen.click-blue?style=for-the-badge&amp;logo=bluesky&amp;logoColor=white" alt="BSky"></a> <a href="https://namemc.com/profile/kanskje0.1" style="text-decoration: none;"><img alt="NameMC" src="https://img.shields.io/badge/NameMC-kanskje0-black?style=for-the-badge&amp;logo=namemc&amp;logoColor=white"></a><br>
 <a href="https://www.youtube.com/richardkanshen" style="text-decoration: none;"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-richardkanshen-red?style=for-the-badge&amp;logo=youtube&amp;logoColor=white"></a>
 <a href="https://www.instagram.com/richard._.kanshen/" style="text-decoration: none;"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-richard.__.kanshen-purple?style=for-the-badge&amp;logo=instagram&amp;logoColor=white"></a>
 <a href="https://www.threads.net/@richard._.kanshen/" style="text-decoration: none;"><img alt="Instagram Threads" src="https://img.shields.io/badge/Threads-richard.__.kanshen-orange?style=for-the-badge&amp;logo=threads&amp;logoColor=white"></a>
@@ -61,3 +61,5 @@ var names = [
 <br>
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=le2c7wcatmvmqycb5imn949an&amp;redirect=true"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=le2c7wcatmvmqycb5imn949an&amp;cover_image=true&amp;theme=default&amp;show_offline=true&amp;background_color=000000&amp;interchange=true&amp;bar_color=53b14f&amp;bar_color_cover=true" alt="spotify-github-profile"></a>
 </div>
+
+`<a rel="me" href="https://woof.tech/@kanskje00">Mastodon</a>` <-  Link to make mastodon (hopefully) happy :3
