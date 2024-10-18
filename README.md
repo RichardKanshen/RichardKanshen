@@ -62,4 +62,4 @@ var names = [
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=le2c7wcatmvmqycb5imn949an&amp;redirect=true"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=le2c7wcatmvmqycb5imn949an&amp;cover_image=true&amp;theme=default&amp;show_offline=true&amp;background_color=000000&amp;interchange=true&amp;bar_color=53b14f&amp;bar_color_cover=true" alt="spotify-github-profile"></a>
 </div>
 
-`<a rel="me" href="https://woof.tech/@kanskje00">Mastodon</a>` <-  Link to make mastodon (hopefully) happy :3
+<link rel="me" href="https://woof.tech/@kanskje00">Mastodon</link>
