@@ -52,7 +52,7 @@ var names = [
 <a href="https://www.instagram.com/richard._.kanshen/" style="text-decoration: none;"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-richard.__.kanshen-purple?style=for-the-badge&amp;logo=instagram&amp;logoColor=white"></a>
 <a href="https://www.threads.net/@richard._.kanshen/" style="text-decoration: none;"><img alt="Instagram Threads" src="https://img.shields.io/badge/Threads-richard.__.kanshen-orange?style=for-the-badge&amp;logo=threads&amp;logoColor=white"></a>
 <a href="https://www.tiktok.com/@richard._.kanshen" style="text-decoration: none;"><img alt="TikTok" src="https://img.shields.io/badge/TikTok-richard.__.kanshen-blueviolet?style=for-the-badge&amp;logo=tiktok&amp;logoColor=white"></a>
-<a href="https://link.kanshen.click/𝕏" style="text-decoration: none;"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-kanskje0-black?style=for-the-badge&amp;logo=x&amp;logoColor=white"></a>
+<a href="https://link.kanshen.click/𝕏" style="text-decoration: none;"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-kanskje00-black?style=for-the-badge&amp;logo=x&amp;logoColor=white"></a>
 </div>
 <a href="https://link.kanshen.click/pronouns" style="text-decoration: none;"><img alt="pronouns.page" src="https://img.shields.io/badge/pronouns-kanshen.click-purple?style=for-the-badge&amp;logo=Pronouns.page&amp;logoColor=white"></a>
 
