@@ -56,7 +56,7 @@ var names = [
 </div>
 <a href="https://link.kanshen.click/pronouns" style="text-decoration: none;"><img alt="pronouns.page" src="https://img.shields.io/badge/pronouns-kanshen.click-purple?style=for-the-badge&amp;logo=Pronouns.page&amp;logoColor=white"></a>
 
-![pronouns card](https://github.com/user-attachments/assets/00bec6b5-cd35-4f3d-8999-a0de2ae0b36e)
+![pronouns card](https://github.com/user-attachments/assets/39a97305-79c0-4971-a76a-c434f22712b6)
 
 <br>
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=le2c7wcatmvmqycb5imn949an&amp;redirect=true"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=le2c7wcatmvmqycb5imn949an&amp;cover_image=true&amp;theme=default&amp;show_offline=true&amp;background_color=000000&amp;interchange=true&amp;bar_color=53b14f&amp;bar_color_cover=true" alt="spotify-github-profile"></a>
