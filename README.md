@@ -23,7 +23,7 @@ var names = [
 <!--START_SECTION:duolingoStats-->
 <!-- Automatically generated with https://github.com/RichardKanshen/duolingo-readme-stats-->
 
-| Username | Day Streak (CET) | Total XP | League |
+| Username | Day Streak (CEST) | Total XP | League |
 |:---:|:---:|:---:|:---:|
 | <img src="https://raw.githubusercontent.com/RichardKanshen/duolingo-readme-stats/main/assets/duolingo.png" height="12"> RichardKanshen | <img src="https://raw.githubusercontent.com/RichardKanshen/duolingo-readme-stats/main/assets/streakinactive.svg" height="12"> 391 | <img src="https://raw.githubusercontent.com/RichardKanshen/duolingo-readme-stats/main/assets/xp.svg" height="12"> 70289 | <img src="https://raw.githubusercontent.com/RichardKanshen/duolingo-readme-stats/main/assets/leagues/emerald.png" height="12"> Emerald |
 
