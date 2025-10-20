@@ -23,9 +23,9 @@ var names = [
 <!--START_SECTION:duolingoStats-->
 <!-- Automatically generated with https://github.com/RichardKanshen/duolingo-readme-stats-->
 
-| Username | Day Streak (CEST) | Total XP | League |
-|:---:|:---:|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/RichardKanshen/duolingo-readme-stats/main/assets/duolingo.png" height="12"> RichardKanshen | <img src="https://raw.githubusercontent.com/RichardKanshen/duolingo-readme-stats/main/assets/streakinactive.svg" height="12"> 594 | <img src="https://raw.githubusercontent.com/RichardKanshen/duolingo-readme-stats/main/assets/xp.svg" height="12"> 81658 | <img src="https://raw.githubusercontent.com/RichardKanshen/duolingo-readme-stats/main/assets/leagues/pearl.png" height="12"> Pearl |
+| Username | Day Streak (CEST) | Total XP |
+|:---:|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/RichardKanshen/duolingo-readme-stats/main/assets/duolingo.png" height="12"> RichardKanshen | <img src="https://raw.githubusercontent.com/RichardKanshen/duolingo-readme-stats/main/assets/streakactive.svg" height="12"> 595 | <img src="https://raw.githubusercontent.com/RichardKanshen/duolingo-readme-stats/main/assets/xp.svg" height="12"> 81688 |
 
 | Language | XP |
 |:---:|:---:|
